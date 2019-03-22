@@ -37,6 +37,7 @@ namespace Wage_Calculator
         {
             // Close the form.
             this.Close();
+            // here it is
         }
     }
 }
